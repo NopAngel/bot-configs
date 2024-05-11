@@ -8,8 +8,7 @@ import { ALLOWED_COMMANDOS } from "./commands";
 import { welcome } from "./functions/welcome";
 import { youtubeConvert } from "./functions/youtube-convert";
 
-/*const bot = new Bot("6814628034:AAGI8IziWhYCuJM0SOy9q1ebsM9MmxgWfnk");*/
-const bot = new Bot("7168453241:AAFThRIPI6sKoBwCc2NdB-7ATZltZCB1i58")
+const bot = new Bot("The Token Bot")
 
 const app = express();
 
